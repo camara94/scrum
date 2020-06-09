@@ -1,0 +1,11 @@
+\babel@toc {french}{}
+\contentsline {section}{\numberline {1}Le choix de la m\'ethode de gestion de projet}{3}%
+\contentsline {section}{\numberline {2}Principe de SCRUM}{3}%
+\contentsline {subsection}{\numberline {2.1}Product backlog}{3}%
+\contentsline {subsection}{\numberline {2.2}Sprint planning}{4}%
+\contentsline {subsection}{\numberline {2.3}Sprint execution}{4}%
+\contentsline {subsection}{\numberline {2.4}Daily scrum}{4}%
+\contentsline {subsection}{\numberline {2.5}Potentially shippable product increment}{4}%
+\contentsline {subsection}{\numberline {2.6}Sprint Review}{5}%
+\contentsline {subsection}{\numberline {2.7}Sprint retrospective}{5}%
+\contentsline {subsection}{\numberline {2.8}Les Rôles de Scrum}{5}%
