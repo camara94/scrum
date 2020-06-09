@@ -1,3 +1,3 @@
 # Essentiel sur Scrum
 
-<img src="images/Scrumpdf.png" alt="scrum"/>
+<img src="images/scrumpdf.png" alt="scrum"/>
